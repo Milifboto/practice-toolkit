@@ -3,3 +3,10 @@
     border-radius: 1rem;
     padding: 1rem;
 }
+
+.article {
+    border: solid white;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin: 1rem;
+}
